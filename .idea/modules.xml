@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CybertekPreview/CybertekPreview.iml" filepath="$PROJECT_DIR$/CybertekPreview/CybertekPreview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CybertekSchool.iml" filepath="$PROJECT_DIR$/CybertekSchool.iml" />
+    </modules>
+  </component>
+</project>
